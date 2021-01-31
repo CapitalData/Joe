@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Justine Chia 
+title: Joe Mirza
 ---
 
-Justine Chia is a Data Scientist at Austin Capital Data. She received her PhD from the University of California, Berkeley, where she studied neurons that are involved in taste processing and memory formation in fruit flies.
+I spent the early portion of my career in Digital Media at CNET and then CBS Interactive. Created one of the first Yield/Revenue Management teams in digital media. Eventually became the VP of Revenue Management and Pricing for the entire organization.
 
------
+---
 
-As a data scientist, she is excited to leverage her expertise in the life sciences to inform heath-related research directions. She is also passionate about making science and data accessible to the general public.
-
-When not working on science, you can find her exploring trails in the backcountry, making mac n cheese, or building LED art projects.
+In 2013, I was recruited by a former boss to start a SaaS and Internet-focused hedge fund, where I’ve spent most of the last seven years.
